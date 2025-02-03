@@ -2,7 +2,4 @@
 Visual-On-Demand-SOnar-Navigation-and-Recognition
 
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/pruthvi54/VODSONAR/main/assets/VODSONAR.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![VODSONAR Video](https://img.youtube.com/vi/{YouTubeVideoID}/0.jpg)](https://raw.githubusercontent.com/pruthvi54/VODSONAR/main/assets/VODSONAR.mp4)
